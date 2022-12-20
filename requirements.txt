@@ -1,5 +1,7 @@
 flask
 torch
+torchserve
+torch-model-archiver
 transformers
 kenlm
 numpy
