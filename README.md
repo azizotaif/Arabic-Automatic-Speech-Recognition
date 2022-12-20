@@ -1,1 +1,1 @@
-# Arabic-Automatic-Speech-Recognition
+# Arabic Automatic Speech Recognition
