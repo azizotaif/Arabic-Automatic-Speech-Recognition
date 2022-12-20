@@ -44,6 +44,7 @@ python app.py --port 7000
 ```
 
 - Open a web browser and enter your IP and the port specified in the previous step
+
 Example:
 ``` shell
 192.168.1.100:7000
