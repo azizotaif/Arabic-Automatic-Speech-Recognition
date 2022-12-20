@@ -2,5 +2,6 @@ flask
 torch
 transformers
 numpy
+soundfile as sf
 librosa
 pydub
