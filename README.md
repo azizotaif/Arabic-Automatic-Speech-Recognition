@@ -32,7 +32,7 @@ pip install -r Arabic-Automatic-Speech-Recognition/requirements.txt
 ``` shell
 Arabic-Automatic-Speech-Recognition/models/
 ```
-Make sure they are names as follow:
+Make sure they are named as follow:
 
 Acoustic model : pytorch_model.bin
 
