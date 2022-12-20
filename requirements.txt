@@ -5,3 +5,4 @@ kenlm
 numpy
 librosa
 pydub
+soundfile
